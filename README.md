@@ -1,5 +1,5 @@
 # Latex-Colors
-Hi. Here's a LaTeX file that defines all colors present in this website: http://latexcolor.com .
+Hi. Here's a LaTeX package that defines all colors present in this website: http://latexcolor.com .
 
 ## How to use:
 
