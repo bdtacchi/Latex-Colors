@@ -3,4 +3,4 @@ Hi. Here's a LaTeX file that defines all colors present in this website: http://
 
 ## How to use:
 
-Just copy and paste the Colors.tex file into your LaTeX file's main folder, and then add ''' \input{Colors.tex} ''' in your tex file.
+Download the `latexcolor.sty` file and put it into your working directory or in your TEXMFHOME. Then in your `.tex` file use it with ```\usepackage{latexcolor}```.
